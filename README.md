@@ -1,2 +1,0 @@
-# fakeRestApi
-For testing purposes
