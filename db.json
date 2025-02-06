@@ -14,23 +14,9 @@
     }
   },
   {
-    "reportId": 2,
-    "status": "IN-PROGRESS",
-    "reportFileKey": null,
-    "createdBy": "vimukthi.ranaweera@acentura.com",
-    "createdAt": null,
-    "filters": {
-      "startDate": "2025-02-03",
-      "endDate": "2025-02-20",
-      "projectId": 23,
-      "clientId": 10,
-      "sbuId": 2
-    }
-  },
-  {
-    "reportId": 3,
-    "status": "ERROR",
-    "reportFileKey": null,
+    "reportId": 1,
+    "status": "COMPLETED",
+    "reportFileKey": "vimukthi.ranaweera@acentura.com/Resource_Utilization_Report_1737695502787.xlsx",
     "createdBy": "vimukthi.ranaweera@acentura.com",
     "createdAt": "2025-02-03T11:35:13.000Z",
     "filters": {
@@ -40,5 +26,19 @@
       "clientId": 10,
       "sbuId": 2
     }
-  }
+  },
+  {
+    "reportId": 1,
+    "status": "COMPLETED",
+    "reportFileKey": "vimukthi.ranaweera@acentura.com/Resource_Utilization_Report_1737695502787.xlsx",
+    "createdBy": "vimukthi.ranaweera@acentura.com",
+    "createdAt": "2025-02-03T11:35:13.000Z",
+    "filters": {
+      "startDate": "2025-02-03",
+      "endDate": "2025-02-20",
+      "projectId": 23,
+      "clientId": 10,
+      "sbuId": 2
+    }
+  },
 ]
